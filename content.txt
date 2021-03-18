@@ -8,6 +8,12 @@ python
 c
 c++
 
+
+nodejs
+hit
+
 completed
 
+
 than u
+done my changes
