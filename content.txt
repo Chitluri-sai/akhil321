@@ -8,4 +8,7 @@ python
 c
 c++
 
+nodejs
+hit
+
 than u
